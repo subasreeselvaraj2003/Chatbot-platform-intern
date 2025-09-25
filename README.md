@@ -63,7 +63,9 @@ Use the signup page to create a new user.
 Log in, create a project, and start chatting.
 
 
-Demo screenshots:
+
+
+
 
 
 
